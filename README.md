@@ -11,4 +11,4 @@ TODO:
 - continue exploring and run longer to sample better
 - compare with reference bayesian model
 - exploit properly the "next" option
-- try to decode uncertainty/confidence pressure-to-perform from FC layer and relate to same variables in natural language tasks
+- try to decode uncertainty/confidence pressure-to-perform from MLP and relate to same variables in natural language tasks
