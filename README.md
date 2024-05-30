@@ -7,6 +7,8 @@ Psychophysics and decision-making of a Llama
 
 This repository hosts the code for my ongoing explorations of decision-making, rationality and evidence accumulation in large language models. I'm currently focusing on "llama-3b-Instruct," subjecting it to a neuroscience-inspired behavioral experiments ("text based psychopysics"). This approach aims to extrapolate and better understand the cognitive mechanisms underlying decision-making processes in these artificail cognitive systems.
 
+--------------------------------------------------------------------------------------------
+
 TODO:
 - continue exploring and run longer to sample better
 - compare with reference bayesian model
