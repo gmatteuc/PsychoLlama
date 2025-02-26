@@ -12,7 +12,7 @@ The performance of the model in this task is compared to a Bayes-optimal baselin
 - When presented with a new sample, it must decide whether it belongs to distribution "A" or "B".
 - The objective is to understand optimality of "intuitive" numerical inference / evidence accumulation in language models.
 
-![WhatsApp Image 2025-02-26 at 19 25 31](https://github.com/user-attachments/assets/4e5af1fe-57c0-41a9-8026-e3c2b4669440)
+<img src="https://github.com/user-attachments/assets/4e5af1fe-57c0-41a9-8026-e3c2b4669440" alt="WhatsApp Image 2025-02-26 at 19 25 31" width="900">
 
 Here a presentation illustrating some of the key results so far: https://docs.google.com/presentation/d/1uNlbAPi-_Sjb5JjfNdis1I3rWV5Bi7w2/edit?usp=sharing&ouid=114959095852310266125&rtpof=true&sd=true
 
