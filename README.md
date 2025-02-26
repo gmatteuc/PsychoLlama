@@ -14,7 +14,7 @@ The performance of the model in this task is compared to a Bayes-optimal baselin
 
 <img src="https://github.com/user-attachments/assets/4e5af1fe-57c0-41a9-8026-e3c2b4669440" alt="WhatsApp Image 2025-02-26 at 19 25 31" width="900">
 
-Here a presentation illustrating some of the key results so far: https://docs.google.com/presentation/d/1uNlbAPi-_Sjb5JjfNdis1I3rWV5Bi7w2/edit?usp=sharing&ouid=114959095852310266125&rtpof=true&sd=true
+Here a presentation illustrating some of the key results so far: https://docs.google.com/presentation/d/1QBHud60ZgZYdNR55cBrDOilR2YQikbYvOMYWmex05rc/edit?usp=sharing
 
 Runs locally with Llama-3-8B-Instruct and Phi-2 from Microsoft. Phi-2 is particularly interesting due to its lightweight nature while maintaining good performance, enabling fast prototyping and development on local machines. Implemented in Python 3.8.17.
 
